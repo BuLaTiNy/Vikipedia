@@ -1,0 +1,47 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.conteiner {
+    width: 500px;
+    height: 200px;
+    display: flex;
+    margin-top: 20px;
+}
+.img {
+    width: 1350px;
+    height: 600px;
+    background-color: black;
+    margin: 10px 20px 0 20px;
+    background-size: auto;
+}
+h1 {
+    margin:10px 0 10px 0;
+    text-align: center;
+    
+}
+.img-one {
+    background-image: url(https://avatars.dzeninfra.ru/get-zen_doc/4079787/pub_60864ae409024b3e2c3dc050_60864b0a924e08292fed99cb/scale_1200);
+    background-size: 100%;
+    width: 1350px;
+    height: 600px;
+    background-color: black;
+    margin: 10px 20px 0 20px;
+    background-size: 100%;
+}  
+.img-two {
+    background-image: url(https://mil.ru/files/morf/1941moscow4_S.jpg);
+    width: 1350px;
+    height: 600px;
+    background-color: black;
+    margin: 10px 20px 0 20px;
+    background-size: 100%;
+}
+.img-three {
+    background-image: url(https://rg.ru/uploads/images/186/63/46/konfereciia.jpg);
+    width: 1350px;
+    height: 600px;
+    margin: 10px 20px 0 20px;
+    background-size: 90%;
+}
